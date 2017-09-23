@@ -11,7 +11,7 @@ Ferramenta do Sistema Operacional <a href="https://github.com/unamecorporation/K
 <br/>
 <p>Inicialize o arquivo kurunet-lan.sh como root, seguindo exemplo a baixo:</p>
 <br/>
-<code>sudo bash kurunet-lan.sh</code>
+<p><code>sudo bash kurunet-lan.sh</code></p>
 <br/>
 <p>Escolha entre as 3 opções a configuração de rede:</p>
 <br/>
