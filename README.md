@@ -7,6 +7,8 @@ Ferramenta do Sistema Operacional <a href="https://github.com/unamecorporation/K
 <br/>
 <p>Dessa forma o usuário aprende colocando a mão na massa, sem firulas, direto no recheio :-)</p>
 <br/>
+<p>Essa ferramenta se destina a Instituições, podendo ser livremente utilizada para ensinar seus alunos porém, nada impede que qualquer pessoa utilize para aprender de maneira autodidata, inclusive incentivamos isso :)</p>
+<br/>
 <p>##Configuração de rede cabeada com kurunet-lan.sh</p>
 <br/>
 <p>Inicialize o arquivo kurunet-lan.sh como root, seguindo exemplo a baixo:</p>
