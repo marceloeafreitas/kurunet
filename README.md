@@ -17,6 +17,8 @@ Ferramenta do Sistema Operacional <a href="https://github.com/unamecorporation/K
 <br/>
 <strong>Opção 1 - Rede DHCP</strong>
 <br/>
+<br/>
 <strong>Opção 2 - IP estático</strong>
+<br/>
 <br/>
 <strong>Opção 3 - DNS</strong>
