@@ -10,7 +10,7 @@ Ferramenta do Sistema Operacional <a href="https://github.com/unamecorporation/K
 <p>##Configuração de rede cabeada com kurunet-lan.sh</p>
 <br/>
 <p>Inicialize o arquivo kurunet-lan.sh como root, seguindo exemplo a baixo:</p>
-<b/>
+<br/>
 <code>sudo bash kurunet-lan.sh</code>
 <br/>
 <p>Escolha entre as 3 opções a configuração de rede:</p>
