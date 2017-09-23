@@ -14,8 +14,8 @@ sudo bash kurunet-lan.sh
 
 Escolha entre as 3 opções a configuração de rede:
 
-Opção 1 - Rede DHCP
+Opção 1 - <strong>Rede DHCP</strong>
 <br/>
-Opção 2 - IP estático
+Opção 2 - <strong>IP estático</strong>
 <br/>
-Opção 3 - DNS
+Opção 3 - <strong>DNS</strong>
