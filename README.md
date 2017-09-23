@@ -1,6 +1,6 @@
-# kurune2121t
+<h1># kurunet</h1>
                              
-<h1>Kurunet - Ferramenta para configuração fácil de rede seguindo o padrão institucional do Kurupira OS</h1>
+<h2>Kurunet - Ferramenta para configuração fácil de rede seguindo o padrão institucional do Kurupira OS</h2>
 <br/>
 <p>
 Ferramenta do Sistema Operacional Kurupira OS, tem como objetivo ensinar o usuário sobre os tipos de rede LAN ou WLAN configuraveis enquanto ele configura sua própria rede.</p>
