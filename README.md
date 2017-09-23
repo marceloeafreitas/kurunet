@@ -1,4 +1,4 @@
-# kurunet
+# kurune2121t
                              
 <h1>Kurunet - Ferramenta para configuração fácil de rede seguindo o padrão institucional do Kurupira OS</h1>
 <br/>
