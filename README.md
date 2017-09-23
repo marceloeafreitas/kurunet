@@ -14,7 +14,7 @@ Ferramenta do Sistema Operacional <a href="https://github.com/unamecorporation/K
 <code>sudo bash kurunet-lan.sh</code>
 <br/>
 <p>Escolha entre as 3 opções a configuração de rede:</p>
-
+<br/>
 <strong>Opção 1 - Rede DHCP</strong>
 <br/>
 <strong>Opção 2 - IP estático</strong>
