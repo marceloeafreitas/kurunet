@@ -5,9 +5,9 @@
 <p>
 Ferramenta do Sistema Operacional <a href="https://github.com/unamecorporation/KurupiraOS">Kurupira OS</a>, tem como objetivo ensinar o usuário sobre os tipos de rede LAN ou WLAN configuraveis enquanto ele configura sua própria rede.</p>
 <br/>
-Dessa forma o usuário aprende colocando a mão na massa, sem firulas, direto no recheio :-)
+<p>Dessa forma o usuário aprende colocando a mão na massa, sem firulas, direto no recheio :-)</p>
 <br/>
-##Configuração de rede cabeada com kurunet-lan.sh
+<p>##Configuração de rede cabeada com kurunet-lan.sh</p>
 <br/>
 Inicialize o arquivo kurunet-lan.sh como root, seguindo exemplo a baixo:
 
