@@ -9,11 +9,11 @@ Ferramenta do Sistema Operacional <a href="https://github.com/unamecorporation/K
 <br/>
 <p>##Configuração de rede cabeada com kurunet-lan.sh</p>
 <br/>
-Inicialize o arquivo kurunet-lan.sh como root, seguindo exemplo a baixo:
-
-sudo bash kurunet-lan.sh
-
-Escolha entre as 3 opções a configuração de rede:
+<p>Inicialize o arquivo kurunet-lan.sh como root, seguindo exemplo a baixo:</p>
+<b/>
+<code>sudo bash kurunet-lan.sh</code>
+<br/>
+<p>Escolha entre as 3 opções a configuração de rede:</p>
 
 <strong>Opção 1 - Rede DHCP</strong>
 <br/>
